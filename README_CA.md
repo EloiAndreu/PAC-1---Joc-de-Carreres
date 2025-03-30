@@ -28,3 +28,7 @@ No he tingut temps a implementar les tasques opcions, m'he centrat en que funcio
 
 https://drive.google.com/drive/folders/12quN7JeO7YlUUnR5-3k3_zokcsavOOBl?usp=sharing
 
+
+### GITLAB
+
+https://gitlab.com/EloiAndreuUOC/pacjocdecarreres
