@@ -6,7 +6,7 @@ using TMPro;
 public class GameManager : MonoBehaviour
 {
     public int currentVoltes = 0;
-    int maxVoltes = 1;
+    int maxVoltes = 3;
 
     public List<GameObject> triggersCarretera;
     public int currentTriggerActive = 1;
